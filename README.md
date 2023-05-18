@@ -16,6 +16,3 @@ Below is an image from the spec that helps to explain the process:
 
 
 This was an interesting project to work on as it required me to balance requirements over different threads and processes, rather than thinking of code as one thread.
-
-Due to University of Michigan's academic integrity policies, I cannot attach my code, but the links to the spec is attached below!
-- https://eecs485staff.github.io/p4-mapreduce/#mapreduce-server-specification
